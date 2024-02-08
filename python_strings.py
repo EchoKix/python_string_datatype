@@ -1,13 +1,24 @@
+# comment- is code that is not executed
+# In VScode I can use ctrl /
+# Multiple lines of comments
+# why comment
+
+
 # TODO Create Variables
-#   - Create the following variables
+#   - Create the following variables   ---> STRING
 #   - my_first_name
+my_first_name = 'Camden' # loosely typed 'data type'
+m ='Camden'
 #       -set this equal to your first name
 #   - my_last_name
+my_last_name = 'Ure'
 #       -set this equal to your last name
 #   - my_year_of_birth
+my_year_of_birth = 2005 # this an integer data type
 #       -set this equal to your birth year (doesn't have to be real should be less then 100 yrs ago)
 #   - current_year
-#       -set this equal to 2020
+current_year = 2024
+#       -set this equal to 2024
 
 
 
@@ -51,3 +62,5 @@
 #       - first name and last name in lower case
 #       - length of last name
 #       - first name and last name all in upper case
+
+my_first_name
